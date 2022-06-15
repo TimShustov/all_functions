@@ -1,0 +1,11 @@
+{
+  "name": "nodejs16",
+  "version": "1.0.0",
+  "description": "NodeJS16 function template",
+  "scripts": {
+    "prepare-function": ""
+  },
+  "author": "SBT",
+  "dependencies": {},
+  "staticContentFolders": []
+}
